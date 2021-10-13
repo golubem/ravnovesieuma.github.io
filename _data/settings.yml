@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Вводный курс',  url: 'facts'}
+- {name: 'Онлайн-обучение',  url: 'facts'}
 - {name: 'Прочие занятия', url: 'resources'}
 - {name: 'Статьи',       url: 'sample-posts'}
-- {name: 'Книги',      url: 'documentation'}
+- {name: 'Книги по теме',      url: 'documentation'}
 - {name: 'Ведущий',              url: 'about'}
 - {name: 'Контакты',            url: 'contact'}
 
