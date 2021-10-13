@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Онлайн-обучение',  url: 'facts'}
+- {name: 'Медитция онлайн',  url: 'facts'}
 - {name: 'Прочие занятия', url: 'resources'}
 - {name: 'Статьи',       url: 'sample-posts'}
 - {name: 'Книги по теме',      url: 'documentation'}
