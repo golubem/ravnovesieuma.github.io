@@ -7,4 +7,4 @@ tags: [sample]
 image: photo_1.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer.
+Ведущий онлайн-занятий
