@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ВЕДУЩИЙ"
+title: "Ведущий проекта и занятий"
 author: "Евгений Голуб"
 categories: about
 tags: [sample]
