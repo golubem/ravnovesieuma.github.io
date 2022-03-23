@@ -4,7 +4,7 @@ title: "Естественное состояние"
 author: "Евгений Голуб"
 categories: sample
 tags: [sample]
-image: arctic-1.jpg
+image: image7.jpg
 ---
 
 # ЕСТЕСТВЕННОЕ СОСТОЯНИЕ
