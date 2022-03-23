@@ -9,8 +9,8 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Медитция онлайн',  url: 'facts'}
 - {name: 'Прочие занятия', url: 'resources'}
-- {name: 'Статьи',       url: 'sample-posts'}
-- {name: 'Книги по теме',      url: 'documentation'}
+- {name: 'Заметки',       url: 'sample-posts'}
+- {name: 'Литература',      url: 'documentation'}
 - {name: 'Ведущий',              url: 'about'}
 - {name: 'Контакты',            url: 'contact'}
 
@@ -28,8 +28,8 @@ pagination:
   next_page: 'Вперед'
   previous_page: 'Назад'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Поделиться...'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'Еще почитать...'
 
-#post_date_prefix: 'Written on'
+post_date_prefix: 'Написано'
