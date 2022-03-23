@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Естесвенное состояние"
+title: "Естественное состояние"
 author: "Евгений Голуб"
 categories: sample
 tags: [sample]
